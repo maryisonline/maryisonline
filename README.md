@@ -11,6 +11,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryisonline&layout=donut&theme=midnight-purple)](https://github.com/maryisonline/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryisonline&langs_count=8&layout=donut&theme=midnight-purple)](https://github.com/maryisonline/github-readme-stats) 
 
 </div>
