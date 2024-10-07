@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=784092&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+I'm+Mary+:])](https://git.io/typing-svg)
 
-
-<center>
 <img src="./images/0d34efe7-4d80-4de9-8c9b-5d997284740b.jfif"
 
 <div align="center">  
